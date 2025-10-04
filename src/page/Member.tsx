@@ -5,14 +5,24 @@ export function Member(){
     const phdUserTableItem = [
         {
             key: '1',
-            name: "陳勝舢",
-            joinDate: "2022.07",
-            role: "博三",
-            coAdvisor: '白敦文',
-            experience: "奧義智慧科技股份有限公司實習生",
-            certificate: "CEH",
-            website: "/#/Member/2022/Ryan"
-        }
+            name: "dkri3c1",
+            joinDate: "2025.10",
+            role: "社長",
+            coAdvisor: '',
+            experience: "成大資安社",
+            certificate: "",
+            website: "https://dkri3c1.github.io/"
+        },
+        {
+            key: '2',
+            name: "林妍蓁",
+            joinDate: "2025.10",
+            role: "副社長",
+            coAdvisor: '',
+            experience: "GiCS尋找資安女婕思-資安組：2023(第一名)、2024(第二名)、2025(第一名)",
+            certificate: "",
+            website: ""
+        },
     ]
     
     const tableColumns: ColumnType<any>[] = [
