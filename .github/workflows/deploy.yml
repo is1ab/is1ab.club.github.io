@@ -26,7 +26,7 @@ jobs:
     environment:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
-    if: github.repository == 'is1ab/is1ab.github.io'
+    if: github.repository == 'is1ab/is1ab.club.github.io'
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
