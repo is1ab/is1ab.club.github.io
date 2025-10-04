@@ -1,17 +1,8 @@
 [
     {
-        "people": "張洸銘",
-        "description": "榮獲 2023 AIS3 EOF攻防競賽 特別獎 - 蟒蛇專家獎",
-        "time": "2023.02.13"
-    },
-    {
-        "people": "陳勝舢",
-        "description": "錄取 TeamT5 Security Camp 2023 資安培訓營",
-        "time": "2022.12.13"
-    },
-    {
-        "people": "陳勝舢",
-        "description": "榮獲 AIS3 新型態資安暑期課程最佳專題獎",
+        "people": "is1ab club",
+        "description": "成立",
+        "extraDescription": "",
         "time": "2022.07.31"
     }
 ]
