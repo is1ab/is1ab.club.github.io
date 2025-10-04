@@ -71,7 +71,7 @@ export function Member(){
     return (
         <div className="member">
             <>
-                <h4 className="text-center fw-bold">社團成員（Ph.D. students）</h4>
+                <h4 className="text-center fw-bold">社團幹部（Club Officers）</h4>
                 <Table columns={tableColumns} dataSource={phdUserTableItem} pagination={false} bordered></Table>
             </>
             <hr></hr>
