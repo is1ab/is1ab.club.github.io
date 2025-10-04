@@ -54,7 +54,7 @@ export function Member(){
             width: '25%'
         },
         {
-            title: "特殊經歷&身份",
+            title: "特殊經歷",
             render: (_text: string, render: any, _index: number) => {
                 return (
                     <div className="d-flex flex-column">
