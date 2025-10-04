@@ -51,7 +51,7 @@ export function Member(){
                     </>
                 )
             },
-            width: '25%'
+            width: '15%'
         },
         {
             title: "特殊經歷",
@@ -64,7 +64,7 @@ export function Member(){
                     </div> 
                 )  
             },
-            width: '25%'
+            width: '35%'
         }
     ]
         
