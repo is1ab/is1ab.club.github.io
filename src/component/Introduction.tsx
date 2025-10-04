@@ -3,7 +3,7 @@ import { useNavigate } from "react-router-dom"
 //import topics from "../assets/topics.json"
 
 export function Introduction(){
-    const navigate = useNavigate()
+    //const navigate = useNavigate()
     return (
         <div className="p-3 py-4 introduction">
             <h4 className="text-center fw-bold mb-3">簡介</h4>
