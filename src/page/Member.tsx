@@ -25,14 +25,85 @@ export function Member(){
         },
         {
             key: '3',
+            name: "罐頭",
+            joinDate: "2025.10",
+            role: "秘書長",
+            coAdvisor: '',
+            experience: "",
+            certificate: "",
+            website: ""
+        },
+        {
+            key: '4',
+            name: "小赫",
+            joinDate: "2025.10",
+            role: "總務",
+            coAdvisor: '',
+            experience: "",
+            certificate: "",
+            website: ""
+        },
+        {
+            key: '4',
+            name: "宇揚",
+            joinDate: "2025.10",
+            role: "活動長",
+            coAdvisor: '',
+            experience: "",
+            certificate: "",
+            website: ""
+        },
+        {
+            key: '5',
             name: "c1ydehhx",
             joinDate: "2025.10",
-            role: "資訊技術顧問",
+            role: "教學長(資訊技術顧問)",
             coAdvisor: '',
             experience: "Pico CTF 299/69579 (<5%) SOLO",
             certificate: "",
             website: "www.c1ydeh.net"
         },
+        {
+            key: '6',
+            name: "ypp",
+            joinDate: "2025.10",
+            role: "場地長",
+            coAdvisor: '',
+            experience: "",
+            certificate: "",
+            website: ""
+        },
+        {
+            key: '7',
+            name: "Adb2",
+            joinDate: "2025.10",
+            role: "器材長",
+            coAdvisor: '',
+            experience: "",
+            certificate: "",
+            website: ""
+        },
+        {
+            key: '8',
+            name: "廷翰",
+            joinDate: "",
+            role: "公關",
+            coAdvisor: '',
+            experience: "",
+            certificate: "",
+            website: ""
+        },
+        {
+            key: '9',
+            name: "WiFi",
+            joinDate: "2025.10",
+            role: "宣傳長",
+            coAdvisor: '',
+            experience: "",
+            certificate: "",
+            website: ""
+        }
+        
     ]
 
     const MembersTableItem = [
