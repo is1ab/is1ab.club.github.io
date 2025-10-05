@@ -5,26 +5,36 @@ export function Member(){
     const OfficersTableItem = [
         {
             key: '1',
-            name: "dkri3c1",
-            joinDate: "2025.10",
+            name: "Adb2",
+            //joinDate: "2025.10",
             role: "社長",
+            coAdvisor: '',
+            experience: "",
+            certificate: "",
+            website: ""
+        },
+        {
+            key: '2',
+            name: "dkri3c1",
+            //joinDate: "2025.10",
+            role: "副社長",
             coAdvisor: '',
             experience: "成大資安社",
             certificate: "",
             website: "https://dkri3c1.github.io/"
         },
         {
-            key: '2',
+            key: '3',
             name: "林妍蓁",
             joinDate: "2025.10",
-            role: "副社長",
+            role: "秘書長",
             coAdvisor: '',
             experience: "GiCS尋找資安女婕思-資安組：2023(第一名)、2024(第二名)、2025(第一名)",
             certificate: "",
             website: ""
         },
         {
-            key: '3',
+            key: '4',
             name: "罐頭",
             joinDate: "2025.10",
             role: "秘書長",
@@ -34,7 +44,7 @@ export function Member(){
             website: ""
         },
         {
-            key: '4',
+            key: '5',
             name: "小赫",
             joinDate: "2025.10",
             role: "總務",
@@ -44,7 +54,7 @@ export function Member(){
             website: ""
         },
         {
-            key: '4',
+            key: '6',
             name: "宇揚",
             joinDate: "2025.10",
             role: "活動長",
@@ -54,17 +64,17 @@ export function Member(){
             website: ""
         },
         {
-            key: '5',
+            key: '7',
             name: "c1ydehhx",
             joinDate: "2025.10",
             role: "教學長-資訊技術顧問",
             coAdvisor: '',
             experience: "Pico CTF 299/69579 (<5%) SOLO",
             certificate: "",
-            website: "www.c1ydeh.net"
+            website: "https://www.c1ydeh.net/"
         },
         {
-            key: '6',
+            key: '8',
             name: "ypp",
             joinDate: "2025.10",
             role: "場地長",
@@ -74,17 +84,7 @@ export function Member(){
             website: ""
         },
         {
-            key: '7',
-            name: "Adb2",
-            joinDate: "2025.10",
-            role: "器材長",
-            coAdvisor: '',
-            experience: "",
-            certificate: "",
-            website: ""
-        },
-        {
-            key: '8',
+            key: '9',
             name: "廷翰",
             joinDate: "",
             role: "公關",
@@ -94,7 +94,7 @@ export function Member(){
             website: ""
         },
         {
-            key: '9',
+            key: '10',
             name: "WiFi",
             joinDate: "2025.10",
             role: "宣傳長",
