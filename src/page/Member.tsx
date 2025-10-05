@@ -23,6 +23,16 @@ export function Member(){
             certificate: "",
             website: ""
         },
+        {
+            key: '3',
+            name: "c1ydehhx",
+            joinDate: "2025.10",
+            role: "資訊技術顧問",
+            coAdvisor: '',
+            experience: "Pico CTF 299/69579 (<5%) SOLO",
+            certificate: "",
+            website: "www.c1ydeh.net"
+        },
     ]
 
     const MembersTableItem = [
