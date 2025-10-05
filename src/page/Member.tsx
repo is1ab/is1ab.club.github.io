@@ -6,17 +6,15 @@ export function Member(){
         {
             key: '1',
             name: "Adb2",
-            //joinDate: "2025.10",
             role: "社長",
             coAdvisor: '',
             experience: "",
             certificate: "",
-            website: ""
+            //website: ""
         },
         {
             key: '2',
             name: "dkri3c1",
-            //joinDate: "2025.10",
             role: "副社長",
             coAdvisor: '',
             experience: "成大資安社",
@@ -26,37 +24,33 @@ export function Member(){
         {
             key: '3',
             name: "lywslc",
-            //joinDate: "2025.10",
             role: "秘書長",
             coAdvisor: '',
             experience: "GiCS尋找資安女婕思-資安組：2023(第一名)、2024(第二名)、2025(第一名)",
             certificate: "",
-            website: ""
+            //website: ""
         },
         {
             key: '4',
             name: "小赫",
-            //joinDate: "2025.10",
             role: "總務",
             coAdvisor: '',
             experience: "",
             certificate: "",
-            website: ""
+            //website: ""
         },
         {
             key: '5',
-            name: "宇揚",
-            //joinDate: "2025.10",
+            name: "youngleetw",
             role: "活動長",
             coAdvisor: '',
             experience: "",
             certificate: "",
-            website: ""
+            website: "https://github.com/youngleetw"
         },
         {
             key: '6',
             name: "c1ydehhx",
-            //joinDate: "2025.10",
             role: "教學長-資訊技術顧問",
             coAdvisor: '',
             experience: "Pico CTF 299/69579 (<5%) SOLO",
@@ -65,33 +59,30 @@ export function Member(){
         },
         {
             key: '7',
-            name: "罐頭",
-            //joinDate: "2025.10",
+            name: "guantou",
             role: "場地長",
             coAdvisor: '',
             experience: "",
             certificate: "",
-            website: ""
+            website: "https://github.com/guan4tou2"
         },
         {
             key: '8',
-            name: "廷翰",
-            //joinDate: "",
+            name: "VV1NN",
             role: "公關",
             coAdvisor: '',
             experience: "",
             certificate: "",
-            website: ""
+            website: "https://github.com/VV1NN"
         },
         {
             key: '9',
             name: "WiFi",
-            //joinDate: "2025.10",
             role: "宣傳長",
             coAdvisor: '',
             experience: "",
             certificate: "",
-            website: ""
+            website: "https://github.com/WIFI0000"
         }
         
     ]
