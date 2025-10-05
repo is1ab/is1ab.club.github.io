@@ -13,7 +13,7 @@ export function Marquee(){
                                 </>
                             })
                         }
-                        { 
+                        {/* { 
                             news.map((data) => {
                                 return <>
                                     <p>賀！{data.people} {data.description}</p>
@@ -21,6 +21,14 @@ export function Marquee(){
                                 </>
                             })
                         }
+                        { 
+                            news.map((data) => {
+                                return <>
+                                    <p>賀！{data.people} {data.description}</p>
+                                    <br/>
+                                </>
+                            })
+                        } */}
                 </div>
             </div>
         </div>

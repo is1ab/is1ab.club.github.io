@@ -188,7 +188,7 @@ a {
   flex-direction: column;
   position: absolute;
   top: 100%;
-  animation: scroll 150s linear infinite;
+  animation: scroll 15s linear infinite;
 }
 
 .marquee-container:hover .marquee-content {
@@ -206,10 +206,10 @@ a {
 
 @keyframes scroll {
   0% {
-    transform: translateY(0%);
+    transform: translateY(0px);
   }
 
   100% {
-    transform: translateY(-100%);
+    transform: translateY(-600px);
   }
 }
