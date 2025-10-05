@@ -25,8 +25,8 @@ export function Member(){
         },
         {
             key: '3',
-            name: "林妍蓁",
-            joinDate: "2025.10",
+            name: "lywslc",
+            //joinDate: "2025.10",
             role: "秘書長",
             coAdvisor: '',
             experience: "GiCS尋找資安女婕思-資安組：2023(第一名)、2024(第二名)、2025(第一名)",
@@ -35,18 +35,8 @@ export function Member(){
         },
         {
             key: '4',
-            name: "罐頭",
-            joinDate: "2025.10",
-            role: "秘書長",
-            coAdvisor: '',
-            experience: "",
-            certificate: "",
-            website: ""
-        },
-        {
-            key: '5',
             name: "小赫",
-            joinDate: "2025.10",
+            //joinDate: "2025.10",
             role: "總務",
             coAdvisor: '',
             experience: "",
@@ -54,9 +44,9 @@ export function Member(){
             website: ""
         },
         {
-            key: '6',
+            key: '5',
             name: "宇揚",
-            joinDate: "2025.10",
+            //joinDate: "2025.10",
             role: "活動長",
             coAdvisor: '',
             experience: "",
@@ -64,9 +54,9 @@ export function Member(){
             website: ""
         },
         {
-            key: '7',
+            key: '6',
             name: "c1ydehhx",
-            joinDate: "2025.10",
+            //joinDate: "2025.10",
             role: "教學長-資訊技術顧問",
             coAdvisor: '',
             experience: "Pico CTF 299/69579 (<5%) SOLO",
@@ -74,9 +64,9 @@ export function Member(){
             website: "https://www.c1ydeh.net/"
         },
         {
-            key: '8',
-            name: "ypp",
-            joinDate: "2025.10",
+            key: '7',
+            name: "罐頭",
+            //joinDate: "2025.10",
             role: "場地長",
             coAdvisor: '',
             experience: "",
@@ -84,9 +74,9 @@ export function Member(){
             website: ""
         },
         {
-            key: '9',
+            key: '8',
             name: "廷翰",
-            joinDate: "",
+            //joinDate: "",
             role: "公關",
             coAdvisor: '',
             experience: "",
@@ -94,9 +84,9 @@ export function Member(){
             website: ""
         },
         {
-            key: '10',
+            key: '9',
             name: "WiFi",
-            joinDate: "2025.10",
+            //joinDate: "2025.10",
             role: "宣傳長",
             coAdvisor: '',
             experience: "",
@@ -139,7 +129,7 @@ export function Member(){
                 return (
                     <>
                         <p>{render.joinDate}
-                        { render.role !== "" ? <span>（{render.role}）</span> : null}
+                        { render.role !== "" ? <span>{render.role}</span> : null}
                         </p>
                         { render.coAdvisor == "" ? null : <p>－與 <span style={{fontWeight: "800"}}>{render.coAdvisor}</span> 老師共同指導</p> }
                     </>
