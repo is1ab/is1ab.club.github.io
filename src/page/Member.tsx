@@ -25,7 +25,6 @@ export function Member(){
         },
     ]
 
-    export function Member(){
     const MembersTableItem = [
         {
             key: '1',
@@ -37,7 +36,6 @@ export function Member(){
             certificate: "",
             website: "https://is1ab.com/"
         }
-        
     ]
         
     const tableColumns: ColumnType<any>[] = [
