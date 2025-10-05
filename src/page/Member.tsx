@@ -36,7 +36,7 @@ export function Member(){
             experience: "",
             certificate: "",
             website: "https://is1ab.com/"
-        },
+        }
         
     ]
         
