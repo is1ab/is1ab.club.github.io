@@ -2,7 +2,7 @@ import { Table } from "antd";
 import { ColumnType } from "antd/es/table";
 
 export function Member(){
-    const phdUserTableItem = [
+    const OfficersTableItem = [
         {
             key: '1',
             name: "dkri3c1",
@@ -24,7 +24,22 @@ export function Member(){
             website: ""
         },
     ]
-    
+
+    export function Member(){
+    const MembersTableItem = [
+        {
+            key: '1',
+            name: "CYS(EXAMPLE)",
+            joinDate: "2025.10",
+            role: "",
+            coAdvisor: '',
+            experience: "",
+            certificate: "",
+            website: "https://is1ab.com/"
+        },
+        
+    ]
+        
     const tableColumns: ColumnType<any>[] = [
         {
             title: "姓名",
@@ -72,9 +87,13 @@ export function Member(){
         <div className="member">
             <>
                 <h4 className="text-center fw-bold">社團幹部（Club Officers）</h4>
-                <Table columns={tableColumns} dataSource={phdUserTableItem} pagination={false} bordered></Table>
+                <Table columns={tableColumns} dataSource={OfficersTableItem} pagination={false} bordered></Table>
             </>
             <hr></hr>
+            <>
+                <h4 className="text-center fw-bold">社團成員（Club Members）</h4>
+                <Table columns={tableColumns} dataSource={MembersTableItem} pagination={false} bordered></Table>
+            </>
         </div>
     )
 }
