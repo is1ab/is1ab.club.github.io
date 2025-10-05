@@ -57,7 +57,7 @@ export function Member(){
             key: '5',
             name: "c1ydehhx",
             joinDate: "2025.10",
-            role: "教學長(資訊技術顧問)",
+            role: "教學長-資訊技術顧問",
             coAdvisor: '',
             experience: "Pico CTF 299/69579 (<5%) SOLO",
             certificate: "",
