@@ -120,7 +120,7 @@ export const YeyeyeMemberPage = () => {
 			zhName="劉業閎"
 			enName="Liu, Yeah Hung"
 			avatar={avatarSrc}
-			institutes={["國立臺北科技大學 資工系碩士班 碩零"]}
+			institutes={["國立臺北科技大學 資工系碩士班 碩一"]}
 			bio={bio()}
 			experiences={competitionExp}
 			certificates={certificates}
