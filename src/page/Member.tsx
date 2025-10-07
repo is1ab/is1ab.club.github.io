@@ -77,7 +77,7 @@ export function Member(){
         },
         {
             key: '9',
-            name: "WiFi",
+            name: "WIFI",
             role: "宣傳",
             coAdvisor: '',
             experience: "",
