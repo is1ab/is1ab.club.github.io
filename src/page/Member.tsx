@@ -24,7 +24,7 @@ export function Member(){
         {
             key: '3',
             name: "lywslc",
-            role: "秘書長",
+            role: "秘書",
             coAdvisor: '',
             experience: "GiCS尋找資安女婕思-資安組：2023(第一名)、2024(第二名)、2025(第一名)",
             certificate: "",
@@ -42,7 +42,7 @@ export function Member(){
         {
             key: '5',
             name: "youngleetw",
-            role: "活動長",
+            role: "活動",
             coAdvisor: '',
             experience: "",
             certificate: "",
@@ -51,7 +51,7 @@ export function Member(){
         {
             key: '6',
             name: "c1ydehhx",
-            role: "教學長-資訊技術顧問",
+            role: "教學-資訊技術顧問",
             coAdvisor: '',
             experience: "Pico CTF 299/69579 (<5%) SOLO",
             certificate: "",
@@ -60,7 +60,7 @@ export function Member(){
         {
             key: '7',
             name: "guantou",
-            role: "場地長",
+            role: "場地",
             coAdvisor: '',
             experience: "",
             certificate: "",
@@ -78,7 +78,7 @@ export function Member(){
         {
             key: '9',
             name: "WiFi",
-            role: "宣傳長",
+            role: "宣傳",
             coAdvisor: '',
             experience: "",
             certificate: "",
