@@ -89,13 +89,22 @@ export function Member(){
 
     const CoreTableItem = [
         {
-            key: '1',
-            name: "-",
-            role: "-",
+            key: '0',
+            name: "ypp",
+            role: "臺北科技大學資訊安全碩士學位學程",
             coAdvisor: '',
-            experience: "",
+            experience: "NTUT islab PWN 組組長",
             certificate: "",
-            //website: ""
+            website: "https://github.com/yPin9"
+        },
+        {
+            key: '1',
+            name: "robert_liao",
+            role: "臺北科技大學資訊工程所",
+            coAdvisor: '',
+            experience: "NTUT islab crypto 組組長",
+            certificate: "",
+            website: "https://github.com/robert-liao"
         }
     ]
     
