@@ -106,14 +106,14 @@ export function Member(){
             certificate: "",
             website: "https://github.com/robert-liao"
         },
-		{
+        {
             key: '2',
-            name: "pudding483",
+            name: "Yueric",
             role: "臺北科技大學資訊安全碩士學位學程",
             coAdvisor: '',
-            experience: "NTUT islab WEB 組組長",
+            experience: "AIS3 好厲駭第九、十屆學員",
             certificate: "",
-            website: "https://github.com/pudding483"
+            website: "https://github.com/Eric-0522"
         }
     ]
     
