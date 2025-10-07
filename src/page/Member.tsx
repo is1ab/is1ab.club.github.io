@@ -111,7 +111,7 @@ export function Member(){
             name: "Jun-an",
             role: "臺北科技大學資訊安全碩士學位學程",
             coAdvisor: '',
-            experience: "",
+            experience: "2024 AIS3 新型態資安暑期課程、第九屆臺灣好厲駭 高階學員培訓",
             certificate: "",
             website: "https://github.com/Kuo-1025"
         }
