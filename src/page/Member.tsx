@@ -32,7 +32,7 @@ export function Member(){
         },
         {
             key: '4',
-            name: "小赫",
+            name: "FromKeyToEnd",
             role: "總務",
             coAdvisor: '',
             experience: "",
