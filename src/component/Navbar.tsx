@@ -26,6 +26,21 @@ export function Navbar() {
       label: "活動 Activities",
       onClick: () => navigate("/Activities"),
     },
+    {
+      key: "joinus",
+      label: "加入我們 Join us",
+      onClick: () => navigate("/Joinus"),
+    },
+    {
+      key: "alliances",
+      label: "聯盟 Alliances",
+      onClick: () => navigate("/Alliances"),
+    },
+    {
+      key: "sponsors",
+      label: "贊助 Sponsors",
+      onClick: () => navigate("/Sponsors"),
+    },
   ];
   return (
     <Menu
