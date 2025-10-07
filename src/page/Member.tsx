@@ -105,6 +105,15 @@ export function Member(){
             experience: "NTUT islab crypto 組組長",
             certificate: "",
             website: "https://github.com/robert-liao"
+        },
+		{
+            key: '2',
+            name: "pudding483",
+            role: "臺北科技大學資訊安全碩士學位學程",
+            coAdvisor: '',
+            experience: "NTUT islab WEB 組組長",
+            certificate: "",
+            website: "https://github.com/pudding483"
         }
     ]
     
