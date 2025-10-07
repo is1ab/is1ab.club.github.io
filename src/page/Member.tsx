@@ -108,12 +108,30 @@ export function Member(){
         },
         {
             key: '2',
+            name: "pudding483",
+            role: "臺北科技大學資訊安全碩士學位學程",
+            coAdvisor: '',
+            experience: "NTUT islab WEB 組組長",
+            certificate: "",
+            website: "https://github.com/pudding483"
+        },
+        {
+            key: '3',
             name: "Yueric",
             role: "臺北科技大學資訊安全碩士學位學程",
             coAdvisor: '',
             experience: "AIS3 好厲駭第九、十屆學員",
             certificate: "",
             website: "https://github.com/Eric-0522"
+        },
+        {
+            key: '4',
+            name: "Jun-an",
+            role: "臺北科技大學資訊安全碩士學位學程",
+            coAdvisor: '',
+            experience: "2024 AIS3 新型態資安暑期課程、第九屆 AIS3 好厲駭 高階學員培訓",
+            certificate: "",
+            website: "https://github.com/Kuo-1025"
         }
     ]
     
