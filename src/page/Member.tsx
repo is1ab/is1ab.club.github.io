@@ -154,6 +154,16 @@ export function Member(){
             experience: "",
             certificate: "",
             website: "https://is1ab.com/"
+        },
+		{
+            key: '2',
+            name: "stwater20",
+            joinDate: "2025.10",
+            role: "國立臺北科技大學資訊工程系",
+            coAdvisor: '',
+            experience: "",
+            certificate: "",
+            website: "https://sectools.tw/about/sean"
         }
     ]
 
