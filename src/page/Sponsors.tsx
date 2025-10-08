@@ -3,7 +3,7 @@ import datas from "../assets/sponsors.json"
 export function Profile(){
     return (
         <>
-            <h4 className="text-center fw-bold">簡介</h4>
+            <h4 className="text-center fw-bold">贊助單位(人)</h4>
             <table className="table-bordered">
                 {datas.map(data => {
                     return (
