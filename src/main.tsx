@@ -65,7 +65,6 @@ const router = createHashRouter(
       <Route path="/Member/2023/Uriah" element={<UriahMemberPage />}></Route>
       <Route path="/Member/2023/Y" element={<YMemberPage />}></Route>
       <Route path="/Member/2023/Salt" element={<SaltMemberPage />}></Route>
-      <Route path="/Member/2022/Ryan" element={<RyanMemberPage />}></Route>
       <Route path="/Member/2024/Adb2" element={<Adb2MemberPage />}></Route>
       <Route path="/Member/2024/WIFI" element={<WIFIMemberPage />}></Route>
       <Route path="/Member/2023/Eason" element={<EasonMemberPage />}></Route>
