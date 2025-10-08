@@ -41,10 +41,10 @@ export function Member(){
         },
         {
             key: '5',
-            name: "youngleetw",
+            name: "young_lee",
             role: "活動",
             coAdvisor: '',
-            experience: "",
+            experience: "MyFirstCTF 2025 銀獎",
             certificate: "",
             website: "https://github.com/youngleetw"
         },
