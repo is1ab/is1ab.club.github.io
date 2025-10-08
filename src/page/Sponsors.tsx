@@ -1,4 +1,4 @@
-import datas from "../assets/profile.json"
+import datas from "../assets/sponsors.json"
 
 export function Profile(){
     return (
