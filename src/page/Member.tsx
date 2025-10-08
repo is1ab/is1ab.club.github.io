@@ -141,6 +141,15 @@ export function Member(){
             experience: '',
             certificate: '',
             website: "https://github.com/yeyeye0618"
+        },
+        {
+            key: '6',
+            name: "mlgzackfly",
+            role: "臺北科技大學資訊安全碩士學位學程",
+            coAdvisor: '',
+            experience: '第十屆AIS3好厲駭 學員（導師培訓）、2024 離島盃資安競賽 大專組（第 5 名）、2023 資安技能金盾獎（入圍決賽）',
+            certificate: '',
+            website: "https://mlgzackfly.com"
         }
     ]
     
