@@ -26,7 +26,6 @@ import { Rule } from "./page/Rule.tsx";
 import { UriahMemberPage } from "./member/2023/Uriah.tsx";
 import { YMemberPage } from "./member/2023/Y.tsx";
 import { SaltMemberPage } from "./member/2023/Salt.tsx";
-import { RyanMemberPage } from "./member/2022/Ryan.tsx";
 import { Adb2MemberPage } from "./member/2024/Adb2.tsx";
 import { WIFIMemberPage } from "./member/2024/WIFI.tsx";
 import { YPPMemberPage } from "./member/2024/ypp.tsx";
