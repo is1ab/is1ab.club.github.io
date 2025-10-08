@@ -117,6 +117,15 @@ export function Member(){
         },
         {
             key: '3',
+            name: "Paul",
+            role: "臺北科技大學資訊安全碩士學位學程",
+            coAdvisor: '',
+            experience: 'NTUT islab Reverse 組組長',
+            certificate: '',
+            website: "https://github.com/paulwang19"
+        },
+        {
+            key: '4',
             name: "Yueric",
             role: "臺北科技大學資訊安全碩士學位學程",
             coAdvisor: '',
@@ -125,7 +134,7 @@ export function Member(){
             website: "https://github.com/Eric-0522"
         },
         {
-            key: '4',
+            key: '5',
             name: "Jun-an",
             role: "臺北科技大學資訊安全碩士學位學程",
             coAdvisor: '',
@@ -134,7 +143,7 @@ export function Member(){
             website: "https://github.com/Kuo-1025"
         },
 		{
-            key: '5',
+            key: '6',
             name: "yeyeye",
             role: "臺北科技大學資訊工程所",
             coAdvisor: '',
@@ -143,14 +152,14 @@ export function Member(){
             website: "https://github.com/yeyeye0618"
         },
         {
-            key: '6',
+            key: '7',
             name: "mlgzackfly",
             role: "臺北科技大學資訊安全碩士學位學程",
             coAdvisor: '',
             experience: '第十屆AIS3好厲駭 學員（導師培訓）、2024 離島盃資安競賽 大專組（第 5 名）、2023 資安技能金盾獎（入圍決賽）',
             certificate: '',
             website: "https://mlgzackfly.com"
-        }
+        },
     ]
     
     const MembersTableItem = [
