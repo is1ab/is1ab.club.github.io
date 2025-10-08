@@ -59,12 +59,12 @@ export function Member(){
         },
         {
             key: '7',
-            name: "guantou",
+            name: "Guan4Tou2",
             role: "場地",
             coAdvisor: '',
             experience: "",
             certificate: "",
-            website: "https://github.com/guan4tou2"
+            website: "https://guan4tou2.github.io/"
         },
         {
             key: '8',
