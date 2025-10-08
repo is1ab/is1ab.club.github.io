@@ -1,6 +1,6 @@
 import datas from "../assets/sponsors.json"
 
-export function Profile(){
+export function Sponsors(){
     return (
         <>
             <h4 className="text-center fw-bold">贊助單位(人)</h4>
