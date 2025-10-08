@@ -8,7 +8,7 @@ export function Member(){
             name: "Adb2",
             role: "社長",
             coAdvisor: '',
-            experience: "",
+            experience: "Pre-exam 2025 14 名",
             certificate: "",
             //website: ""
         },
@@ -32,12 +32,12 @@ export function Member(){
         },
         {
             key: '4',
-            name: "FromKeyToEnd",
+            name: "robert_liao",
             role: "總務",
             coAdvisor: '',
-            experience: "",
+            experience: "NTUT islab crypto 組組長",
             certificate: "",
-            //website: ""
+            website: "https://github.com/robert-liao"
         },
         {
             key: '5',
@@ -50,12 +50,12 @@ export function Member(){
         },
         {
             key: '6',
-            name: "c1ydehhx",
-            role: "教學-資訊技術顧問",
+            name: "ypp",
+            role: "教學",
             coAdvisor: '',
-            experience: "Pico CTF 299/69579 (<5%) SOLO",
+            experience: "NTUT islab PWN 組組長",
             certificate: "",
-            website: "https://www.c1ydeh.net/"
+            website: "https://github.com/yPin9"
         },
         {
             key: '7',
@@ -83,46 +83,54 @@ export function Member(){
             experience: "",
             certificate: "",
             website: "https://github.com/WIFI0000"
+        },
+        {
+            key: '10',
+            name: "Paul",
+            role: "器材",
+            coAdvisor: '',
+            experience: 'NTUT islab Reverse 組組長',
+            certificate: '',
+            website: "https://github.com/paulwang19"
         }
-        
     ]
 
     const CoreTableItem = [
         {
             key: '0',
-            name: "ypp",
-            role: "臺北科技大學資訊安全碩士學位學程",
+            name: "stwater20",
+            role: "國立臺北科技大學資訊工程系",
             coAdvisor: '',
-            experience: "NTUT islab PWN 組組長",
+            experience: "",
             certificate: "",
-            website: "https://github.com/yPin9"
+            website: "https://sectools.tw/about/sean"
         },
         {
             key: '1',
-            name: "robert_liao",
-            role: "臺北科技大學資訊工程所",
+            name: "c1ydehhx",
+            role: "資訊技術顧問",
             coAdvisor: '',
-            experience: "NTUT islab crypto 組組長",
+            experience: "Pico CTF 299/69579 (<5%) SOLO",
             certificate: "",
-            website: "https://github.com/robert-liao"
+            website: "https://www.c1ydeh.net/"
         },
         {
             key: '2',
+            name: "FromKeyToEnd",
+            role: "",
+            coAdvisor: '',
+            experience: "",
+            certificate: "",
+            //website: ""
+        },
+        {
+            key: '3',
             name: "pudding483",
             role: "臺北科技大學資訊安全碩士學位學程",
             coAdvisor: '',
             experience: "NTUT islab WEB 組組長",
             certificate: "",
             website: "https://github.com/pudding483"
-        },
-        {
-            key: '3',
-            name: "Paul",
-            role: "臺北科技大學資訊安全碩士學位學程",
-            coAdvisor: '',
-            experience: 'NTUT islab Reverse 組組長',
-            certificate: '',
-            website: "https://github.com/paulwang19"
         },
         {
             key: '4',
@@ -172,16 +180,6 @@ export function Member(){
             experience: "",
             certificate: "",
             website: "https://is1ab.com/"
-        },
-		{
-            key: '2',
-            name: "stwater20",
-            joinDate: "2025.10",
-            role: "國立臺北科技大學資訊工程系",
-            coAdvisor: '',
-            experience: "",
-            certificate: "",
-            website: "https://sectools.tw/about/sean"
         }
     ]
 
