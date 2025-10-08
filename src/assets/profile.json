@@ -1,57 +1,9 @@
 [
     {
-        "title": "姓名（Name）",
+        "title": "贊助單位(人)",
         "descriptions": [
-            "孫勤昱（Chin-Yu Sun）"
-        ]
-    },
-    {
-        "title": "職稱（Position）",
-        "descriptions": [
-            "國立臺北科技大學 資訊工程系-助理教授（Assistant Professor）",
-            "國立臺北科技大學 計算機與網路中心-網路組組長（Chief Officer, Network Operation Section of Computer & Network Center）"
-        ]
-    },
-    {
-        "title": "學歷（Degree）",
-        "descriptions": [
-            "國立清華大學 資訊工程學系博士（Ph. D., National Tsing Hua University, Taiwan）"
-        ]
-    },
-    {
-        "title": "專長（Expertise）",
-        "descriptions": [
-            "網路安全 – 攻防技術（Network Security and hacking techniques）",
-            "密碼學與其相關應用（Cryptography and its applications）",
-            "資訊安全（Information Security）",
-            "硬體安全（Hardware Security）",
-            "量子密碼學（Quantum Cryptography）"
-        ]
-    },
-    {
-        "title": "辦公室（Office）",
-        "descriptions": [
-            "宏裕科研大樓 1626室（Hong-Yue Tech. Research Building 1626）",
-            "共同科館大樓 212室（General Studies Building 212）"
-        ]
-    },
-    {
-        "title": "聯繫信箱（Email）",
-        "descriptions": [
-            "cysun@ntut.edu.tw"
-        ]
-    },
-    {
-        "title": "聯絡電話（Phone）",
-        "descriptions": [
-            "+886-2-2771-2171 #4245（研究室）",
-            "+886-2-2771-2171 #3231（網路組）"
-        ]
-    },
-    {
-        "title": "實驗室（Lab）",
-        "descriptions": [
-            "資訊安全實驗室 (Information Security Lab.)"
+            "北聯大資安社群",
+            "北聯大資安社群"
         ]
     }
 ]
