@@ -14,7 +14,7 @@ import { ConfigProvider } from "antd";
 import { Member } from "./page/Member.tsx";
 import { Alumni } from "./page/Alumni.tsx";
 import { Partner } from "./page/Partner.tsx";
-import { Profile } from "./page/Sponsors.tsx";
+import { Sponsors } from "./page/Sponsors.tsx";
 import { Publication } from "./page/Publication.tsx";
 import { Experience } from "./page/Experience.tsx";
 import { Course } from "./page/Courses.tsx";
@@ -105,7 +105,7 @@ const router = createHashRouter(
 
       <Route path="/Alumni" element={<Alumni></Alumni>}></Route>
       <Route path="/Partner" element={<Partner></Partner>}></Route>
-      <Route path="/Profile" element={<Profile></Profile>}></Route>
+      <Route path="/Sponsors" element={<Sponsors></Sponsors>}></Route>
       <Route path="/Publication" element={<Publication></Publication>}></Route>
       <Route path="/Experience" element={<Experience></Experience>}></Route>
       <Route path="/Course" element={<Course></Course>}></Route>
