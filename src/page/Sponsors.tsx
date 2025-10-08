@@ -8,9 +8,6 @@ export function Sponsors(){
                 {datas.map(data => {
                     return (
                         <tr>
-                            <td className="w-25 border border-1 p-3">
-                                <p>{data.time}</p>
-                            </td>
                             <td className="w-50 border border-1 p-3">
                                 <p>{data.title}</p>
                             </td>
