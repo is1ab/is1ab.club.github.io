@@ -14,7 +14,7 @@ import { ConfigProvider } from "antd";
 import { Member } from "./page/Member.tsx";
 import { Alumni } from "./page/Alumni.tsx";
 import { Partner } from "./page/Partner.tsx";
-import { Profile } from "./page/Profile.tsx";
+import { Profile } from "./page/Sponsors.tsx";
 import { Publication } from "./page/Publication.tsx";
 import { Experience } from "./page/Experience.tsx";
 import { Course } from "./page/Courses.tsx";
