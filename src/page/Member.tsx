@@ -170,7 +170,7 @@ export function Member(){
         },
     ]
     
-    const MembersTableItem = [
+    const AdvisorsTableItem = [
         {
             key: '1',
             name: "CYS(EXAMPLE)",
@@ -284,7 +284,7 @@ export function Member(){
             }
         },
         {
-            title: "加入時間",
+            title: "身份",
             render: (_text: string, render: any, _index: number) => {
                 return (
                     <>
@@ -296,9 +296,9 @@ export function Member(){
                 )
             },
             width: '15%'
-        },
+        },*/
         {
-            title: "特殊經歷",
+            title: "相關經歷",
             render: (_text: string, render: any, _index: number) => {
                 return (
                     <div className="d-flex flex-column">
@@ -325,8 +325,8 @@ export function Member(){
             </>
             <hr></hr>
             <>
-                <h4 className="text-center fw-bold">一般成員（Members）</h4>
-                <Table columns={tableColumns} dataSource={MembersTableItem} pagination={false} bordered></Table>
+                <h4 className="text-center fw-bold">社團指導老師（Club Advisors）</h4>
+                <Table columns={tableColumns} dataSource={AdvisorsTableItem} pagination={false} bordered></Table>
             </>
         </div>
     )
