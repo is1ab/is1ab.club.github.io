@@ -296,7 +296,7 @@ export function Member(){
                 )
             },
             width: '15%'
-        },*/
+        },
         {
             title: "相關經歷",
             render: (_text: string, render: any, _index: number) => {
