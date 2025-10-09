@@ -173,13 +173,23 @@ export function Member(){
     const AdvisorsTableItem = [
         {
             key: '1',
-            name: "CYS(EXAMPLE)",
-            joinDate: "2025.10",
+            name: "孫勤昱",
+            joinDate: "社團指導老師",
             role: "",
             coAdvisor: '',
-            experience: "",
+            experience: "國立臺北科技大學 資訊工程系 助理教授、國立臺北科技大學 計算機與網路中心 網路作業組組長",
             certificate: "",
             website: "https://is1ab.com/"
+		},
+		{
+            key: '2',
+            name: "陳昱圻",
+            joinDate: "社團共同指導老師",
+            role: "",
+            coAdvisor: '',
+            experience: "國立臺北科技大學 資訊工程系 正教授、國立臺北科技大學 資訊安全碩博士學位學程主任",
+            certificate: "",
+            website: "https://cislab-ntut.github.io/"
         }
     ]
 
