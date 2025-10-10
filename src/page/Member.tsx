@@ -168,6 +168,15 @@ export function Member(){
             certificate: '',
             website: "https://mlgzackfly.com"
         },
+		{
+            key: '8',
+            name: "lienliensee",
+            role: "臺北科技大學資訊安全碩士學位學程",
+            coAdvisor: '',
+            experience: 'HITCON Cyber Range 2024 第1名 、HOLMES CTF 2025 385/7800(<5%)',
+            certificate: '',
+            website: ""
+        }
     ]
     
     const AdvisorsTableItem = [
