@@ -10,7 +10,7 @@ export function Member(){
             coAdvisor: '',
             experience: "Pre-exam 2025 14 名",
             certificate: "",
-            //website: ""
+            website: "https://www.adb2.com/"
         },
         {
             key: '2',
