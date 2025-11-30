@@ -204,6 +204,31 @@ a {
   color: #4CAF50;
 }
 
+.activity-card-layout {
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+}
+
+.activity-card-description-layout {
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+}
+
+@media (min-width: 992px) {
+  .activity-card-layout {
+    display: flex;
+    flex-direction: row;
+    gap: 3rem;
+  }
+  .activity-card-description-layout {
+    display: flex;
+    flex-direction: column;
+    gap: 3rem;
+  }
+}
+
 @keyframes scroll {
   0% {
     transform: translateY(0px);
