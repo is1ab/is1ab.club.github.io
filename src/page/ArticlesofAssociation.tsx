@@ -2,7 +2,7 @@ import React from 'react';
 
 export function ArticlesofAssociation() {
     // 定義樣式物件 (Styles)
-    const styles = {
+    const styles: { [key: string]: React.CSSProperties } = {
         container: {
             backgroundColor: '#121212', // 深色背景
             color: '#E0E0E0',           // 淺灰文字，比純白不刺眼
