@@ -13,9 +13,13 @@ export function Navbar() {
           label: "成員 Members",
           onClick: () => navigate("/Member"),
         },
+        {
+          key: "Articles of Association",
+          label: "組織章程 Articles of Association",
+          onClick: () => navigate("/ArticlesofAssociation"),
+        }
       ],
     },
-    
     {
       key: "news",
       label: "消息 News",

@@ -12,6 +12,7 @@ import "../src/index.css";
 import { Home } from "./page/Home.tsx";
 import { ConfigProvider } from "antd";
 import { Member } from "./page/Member.tsx";
+import { ArticlesofAssociation } from "./page/ArticlesofAssociation.tsx";
 import { Alumni } from "./page/Alumni.tsx";
 import { Partner } from "./page/Partner.tsx";
 import { Sponsors } from "./page/Sponsors.tsx";
@@ -100,7 +101,7 @@ const router = createHashRouter(
       <Route path="/Member/2025/Ting" element={<TingMemberPage />}></Route>
       <Route path="/Member/2025/Yunung" element={<YunungMemberPage />}></Route>
       <Route path="/Member/2025/Victor" element={<VictorMemberPage />}></Route>
-
+      <Route path="/ArticlesofAssociation" element={<ArticlesofAssociation></ArticlesofAssociation>}></Route>
       <Route path="/Alumni" element={<Alumni></Alumni>}></Route>
       <Route path="/Partner" element={<Partner></Partner>}></Route>
       <Route path="/Sponsors" element={<Sponsors></Sponsors>}></Route>
