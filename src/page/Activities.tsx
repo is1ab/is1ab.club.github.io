@@ -1,9 +1,16 @@
 import { ActivityCard } from "../component/ActivityCard"
+import ActivityImage2 from "../assets/activity/activity-image-3.png"
 import ActivityImage from "../assets/activity/activity-image.png"
 import ActivityImage2 from "../assets/activity/activity-image-2.png"
 
 export function Activities(){
     const ActivityItems = [
+        {
+            imgSrc: ActivityImage3,
+            title: "2025 AEGIS 神盾盃資安競賽 決賽",
+            subTitle: "2025/11/22-2025/11/23 - Tainan City",
+            description: "以「模擬真實企業／國防環境之資安攻防」為導向設計，比賽分為初賽與決賽兩階段。初賽吸引 40 多支學生團隊報名參加。經過初賽後，最終取前 10 組團隊晉級決賽。"
+        },
         {
             imgSrc: ActivityImage,
             title: "2024 AIS3 新型態暑期課程",
