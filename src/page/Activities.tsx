@@ -1,5 +1,5 @@
 import { ActivityCard } from "../component/ActivityCard"
-import ActivityImage2 from "../assets/activity/activity-image-3.png"
+import ActivityImage3 from "../assets/activity/activity-image-3.png"
 import ActivityImage from "../assets/activity/activity-image.png"
 import ActivityImage2 from "../assets/activity/activity-image-2.png"
 
