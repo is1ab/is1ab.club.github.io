@@ -5,7 +5,7 @@ export function Header(){
     return (
         <div className="w-100 pt-5 pb-4 rounded">
             <p className="fs-2 fw-bold" onClick={() => navigate("/")} style={{cursor: "pointer"}}>北科資安社</p>
-            <h6 className="m-0" ><small style={{color: "#ffffff99"}}>is1ab club</small></h6>
+            <h6 className="m-0" ><small style={{color: "#ffffff99"}}>NTUT is1ab club</small></h6>
         </div>
     )
 }
