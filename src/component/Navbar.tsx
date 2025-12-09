@@ -3,6 +3,7 @@ import { useNavigate } from "react-router-dom";
 
 export function Navbar() {
   const navigate = useNavigate();
+  const joinFormUrl = "https://forms.gle/Q8E44fxzK2o3uo2m7";
   const items: MenuProps["items"] = [
     {
       key: "about us",
@@ -33,7 +34,7 @@ export function Navbar() {
     {
       key: "joinus",
       label: "加入我們 Join us",
-      onClick: () => navigate("/Joinus"),
+      onClick: () => window.open(joinFormUrl, "_blank"),
     },
     {
       key: "alliances",
