@@ -79,14 +79,14 @@ export function ArticlesofAssociation() {
     return (
         <div style={styles.container}>
             <div style={styles.paper}>
-                <h1 style={styles.mainTitle}>國立臺北科技大學 is1ab club 組織章程</h1>
+                <h1 style={styles.mainTitle}>北科資安社 組織章程</h1>
 
                 {/* 第一章 */}
                 <h2 style={styles.chapterTitle}>第一章 總則</h2>
                 
                 <h3 style={styles.articleTitle}>第一條 本社群定名</h3>
                 <p style={styles.paragraph}>
-                    本社群定名為 <strong>is1ab club</strong>，社團定名 <strong>is1ab club</strong>（以下簡稱本社）。
+                    本社群定名為 <strong>北科資安社</strong>（以下簡稱本社）。
                 </p>
 
                 <ul style={styles.list}>
