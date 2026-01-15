@@ -18,7 +18,6 @@ import { Sponsors } from "./page/Sponsors.tsx";
 import { Course } from "./page/Courses.tsx";
 import { News } from "./page/News.tsx";
 import { Activities } from "./page/Activities.tsx";
-import { Rule } from "./page/Rule.tsx";
 
 const router = createHashRouter(
   createRoutesFromElements(
@@ -31,7 +30,6 @@ const router = createHashRouter(
       <Route path="/Course" element={<Course></Course>}></Route>
       <Route path="/News" element={<News></News>}></Route>
       <Route path="/Activities" element={<Activities></Activities>}></Route>
-      <Route path="/Rules" element={<Rule></Rule>}></Route>
     </Route>
   )
 );
