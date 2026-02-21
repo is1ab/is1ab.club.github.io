@@ -3,11 +3,18 @@ import logo from "../../assets/member/Guan4Tou2.png"
 import { MemberArticleType, MemberCertificateType, MemberInternType, MemberParticipateType, MemberCompetitionExperienceType,MemberZeroDayType } from "../../type/MemberCertificateType"
 
 export const Guan4Tou2MemberPage = () => {
-    const bio = "我超弱"
+    const bio = <div className="d-flex flex-column gap-3">
+    <p>我超弱</p>
+    <p>可以看看我的 <a href="https://blog.guan4tou2.com" target="_blank" rel="noopener noreferrer">blog</a></p>
+    </div>
     const certificates: MemberCertificateType[] = [
         {
             title: "iPAS 資訊安全工程師-初級能力鑑定",
             datetime: "2024.06.01"
+        },
+        {
+            title: "OSCP - Offensive Security Certified Professional",
+            datetime: "2026.02.09"
         },
     ]
     const raceExperiences: MemberCompetitionExperienceType[] = [
@@ -108,8 +115,8 @@ export const Guan4Tou2MemberPage = () => {
             datetime: "2024.03.16"
         },
         {
-            title: "教育體系資安攻防演練 攻防檢測員",
-            datetime: "2024.07.23"
+            title: "教育體系資安攻防演練 攻防檢測員 - 佳作",
+            datetime: "2024.07 - 2024.09"
         },
         {
             title: "電商產業外網資安檢測服務攻擊手",
@@ -122,6 +129,14 @@ export const Guan4Tou2MemberPage = () => {
         {
             title: "第九屆台灣好厲駭-高階培訓模式",
             datetime: "2024.08.31"
+        },
+        {
+            title: "第九屆台灣好厲駭-高階培訓模式",
+            datetime: "2025.08.31"
+        },
+        {
+            title: "教育體系資安攻防演練 攻防檢測員 - 佳作",
+            datetime: "2025.07 - 2025.09"
         },
     ]
     const internExperiences: MemberInternType[] = [
