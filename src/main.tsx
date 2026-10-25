@@ -12,6 +12,7 @@ import "../src/index.css";
 import { Home } from "./page/Home.tsx";
 import { ConfigProvider } from "antd";
 import { Member } from "./page/Member.tsx";
+import { Term } from "./page/Term.tsx";
 import { ArticlesofAssociation } from "./page/ArticlesofAssociation.tsx";
 import { Alliances } from "./page/Alliance.tsx";
 import { Sponsors } from "./page/Sponsors.tsx";
@@ -24,6 +25,7 @@ const router = createHashRouter(
     <Route element={<RootLayout></RootLayout>}>
       <Route path="/" element={<Home></Home>}></Route>
       <Route path="/Member" element={<Member></Member>}></Route>
+      <Route path="/Member/Term/:term" element={<Term></Term>}></Route>
       <Route path="/ArticlesofAssociation" element={<ArticlesofAssociation></ArticlesofAssociation>}></Route>
       <Route path="/Alliances" element={<Alliances></Alliances>}></Route>
       <Route path="/Sponsors" element={<Sponsors></Sponsors>}></Route>
