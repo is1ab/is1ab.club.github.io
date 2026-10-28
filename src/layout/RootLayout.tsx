@@ -2,7 +2,7 @@ import { Col, Container, Row } from "react-bootstrap";
 import { Outlet } from "react-router-dom";
 import { Header } from "../component/Header";
 import { Navbar } from "../component/Navbar";
-import Logo from "../assets/logo.png"
+import Logo from "../assets/logo.jpg"
 import { Marquee } from "../component/Marquee";
 
 export function RootLayout(){

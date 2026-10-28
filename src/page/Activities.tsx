@@ -2,9 +2,16 @@ import { ActivityCard } from "../component/ActivityCard"
 import ActivityImage3 from "../assets/activity/activity-image-3.png"
 import ActivityImage from "../assets/activity/activity-image.png"
 import ActivityImage2 from "../assets/activity/activity-image-2.png"
+import ActivityImage4 from "../assets/activity/activity-image-4.jpg"
 
 export function Activities(){
     const ActivityItems = [
+        {
+            imgSrc: ActivityImage4,
+            title: "2026 資安技能金盾初賽",
+            subTitle: "2026/10/17 - Tainan City",
+            description: "為加強學生資安實務技能，透過競賽機制，以實務與時事題型，提升學生解決資安問題能力與實戰經驗。"
+        },
         {
             imgSrc: ActivityImage3,
             title: "2025 AEGIS 神盾盃資安競賽 決賽",
