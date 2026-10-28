@@ -1,4 +1,4 @@
-import Logo from "../assets/logo.png"
+import Logo from "../assets/logo.jpg"
 import { Table } from "antd"
 import { MemberArticleType, MemberCertificateType, MemberInternType, MemberParticipateType, MemberCompetitionExperienceType,MemberZeroDayType } from "../type/MemberCertificateType"
 import { useLocation } from "react-router-dom"
